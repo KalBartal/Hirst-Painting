@@ -6,6 +6,5 @@ This is application creates a randomised Hirst style painting, using RGB values 
 
 ## Usage
 
-
-![Hirst Painting](https://imgur.com/a/sqGDNkZ)
+![Hirst Painting](https://i.imgur.com/ko6lYne.png)
 
